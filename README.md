@@ -1,3 +1,3 @@
 # PracticasAMPE
- Prácticas de Arquitecturas Mutinúcleo y de Propósito Específico
 
+ Prácticas de Arquitecturas Mutinúcleo y de Propósito Específico

@@ -1,0 +1,7 @@
+setup.py
+practica2_connection/torch_practica2.cpp
+src/practica2.cpp
+torch_practica2.egg-info/PKG-INFO
+torch_practica2.egg-info/SOURCES.txt
+torch_practica2.egg-info/dependency_links.txt
+torch_practica2.egg-info/top_level.txt
